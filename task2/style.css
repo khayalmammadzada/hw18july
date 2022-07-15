@@ -1,0 +1,90 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.main-box{
+    width: 98%;
+    height: 120px;
+    border-style: solid;
+    position: absolute;
+    top: 5%;
+    left: 1%;
+   border-radius: 3%;
+   border-width: 4px;
+}
+
+.main-box .left-yellow{
+    width: 60px;
+    height: 60px;
+    background-color: yellow;
+    position: absolute;
+    left: 4%;
+    top: 28%;
+}
+
+.main-box .middle-yellow{
+    width: 800px;
+    height: 60px;
+    background-color: yellow;
+    position: absolute;
+    left: 17%;
+    top: 28%;
+}
+
+.main-box .right-yellow{
+    width: 90px;
+    height: 60px;
+    background-color: yellow;
+    position: absolute;
+    right: 5%;
+    top: 28%;
+}
+
+.main-box .blue-left{
+    width: 250px;
+    height: 45px;
+    background-color: cornflowerblue;
+    position: absolute;
+    left: 20%;
+    top: 40%;
+}
+
+.main-box .blue-middle{
+    width: 250px;
+    height: 41px;
+    background-color: cornflowerblue;
+    position: absolute;
+    left: 45%;
+    top: 45%;
+}
+
+.main-box .blue-right{
+    width: 95px;
+    height: 41px;
+    background-color: cornflowerblue;
+    position: absolute;
+    left: 70%;
+    top: 45%;
+}
+
+.main-box .red-box{
+    width: 50px;
+    height: 34px;
+    background-color: red;
+    position: absolute;
+    left: 35.5%;
+    top: 40%;
+}
+
+.main-box .green-box{
+    width: 50px;
+    height: 49px;
+    border-style: solid;
+    border-width: 4px;
+    border-color: rgb(13, 217, 13);
+    position: absolute;
+    left: 90%;
+    top: 34%;
+}

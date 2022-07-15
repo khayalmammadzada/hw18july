@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    overflow: scroll;
+}
+
+.box{
+    width: 98%;
+    height: 200px;
+    border: solid;
+    position: relative;
+    left: 1%;
+    top: 2%;
+}
+
+.box .heading{
+    height: 60px;
+}
+
+.box .A{
+    width: 100%;
+    height: 40px;
+    background-color: rgb(198, 195, 195);
+    position: sticky;
+    top: 0;
+}
+
+.box .B{
+    width: 100%;
+    height: 40px;
+    background-color: rgb(198, 195, 195);
+    position: sticky;
+    top: 0;
+}
+
+.box .C{
+    width: 100%;
+    height: 40px;
+    background-color: rgb(198, 195, 195);
+    position: sticky;
+    top: 0;
+}
+
+.box .D{
+    width: 100%;
+    height: 40px;
+    background-color: rgb(198, 195, 195);
+    position: sticky;
+    top: 0;
+}
